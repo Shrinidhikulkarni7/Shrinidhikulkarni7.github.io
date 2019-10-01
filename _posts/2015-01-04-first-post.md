@@ -2,7 +2,7 @@
 layout: post
 title: Hello World!
 image: /img/hello_world.jpeg
-published: false
+published: true
 ---
 
 The beginning of everything!
