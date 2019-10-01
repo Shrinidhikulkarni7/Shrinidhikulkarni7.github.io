@@ -76,10 +76,10 @@ rss:
   baseURL: "{{ '/feed.xml' | relative_url }}"
   icon: "fa-rss"
 
-steam:
-  name: "Steam"
-  baseURL: "https://steamcommunity.com/id/"
-  icon: "fa-steam"
+medium:
+  name: "Medium"
+  baseURL: "https://medium.com/"
+  icon: "fa-medium"
 
 twitch:
   name: "Twitch"
