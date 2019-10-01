@@ -13,4 +13,4 @@ What else do you need?
 
 ### my history
 
-Born in Bijapur[https://en.wikipedia.org/wiki/Bijapur]
+Born in [Bijapu](https://en.wikipedia.org/wiki/Bijapur)
