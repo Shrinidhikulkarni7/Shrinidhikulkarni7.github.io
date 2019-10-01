@@ -13,4 +13,7 @@ What else do you need?
 
 ### my history
 
-Born in [Bijapu](https://en.wikipedia.org/wiki/Bijapur)
+Born in [Bijapur](https://en.wikipedia.org/wiki/Bijapur), i would love to enhance my skills become a very good devops engineer and change the world.
+I love technology, soccer and watching movies.
+I write a lot of things on technology which can be found on my [Medium](https://medium.com/@davidcesc)
+Always up for a coffee and beer!
